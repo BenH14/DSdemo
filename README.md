@@ -14,6 +14,8 @@ Available Commands:
 
 -smoothanim, smoothing animation
 
+-reset, resets the map
+
 
 
 Created by Benjamin Henaghan
